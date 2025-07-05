@@ -5,6 +5,7 @@ import Problem from "./components/sections/Problem";
 import Solution from "./components/sections/Solution";
 import Builder from "./components/sections/Builder";
 import EmailCapture from "./components/sections/EmailCapture";
+import Footer from "./components/sections/Footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Solution />
       <Builder />
       <EmailCapture />
+      <Footer />
     </Layout>
   );
 }
