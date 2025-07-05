@@ -34,7 +34,6 @@ function App() {
           Built with Latino pride 🇨🇴 | Designed for global impact 🌍
         </p>
       </section>
-      // Add this section before "Coming Soon"
       <section
         style={{
           padding: "3rem 2rem",
